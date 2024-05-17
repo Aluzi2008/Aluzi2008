@@ -1,5 +1,12 @@
-### Hi there 👋
+### Bem vindas ao meu perfil 👋
+Meu nome é Luziane maria
 
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+00001224525711sp@al.educacao.sp.gov.br
 <!--
 **Aluzi2008/Aluzi2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
